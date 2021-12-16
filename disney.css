@@ -1,0 +1,25 @@
+body {
+ width: 90%;
+ margin: auto;
+ background-color: lightpink;
+ 
+
+ padding: 10px;
+/* text-align: center;*/
+}
+p {
+    border: 1px dashed magenta;
+}
+
+h1, h2{
+    text-align: left;
+    color: magenta;
+}
+
+p{
+    margin: 10px;
+}
+
+img{
+    padding: 1px;
+}
